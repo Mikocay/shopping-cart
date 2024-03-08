@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/controller/ShowCartController.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/web/Register.jsp</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/web/Login.jsp</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/controller/RegisterController.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/models/cartDTO.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/controller/BookStoreController.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/models/userDTO.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/web/BookStore.jsp</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/models/cartDAO.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/web/ShowCart.jsp</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/controller/LoginController.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/controller/MainController.java</file>
+            <file>file:/D:/FPT/PRJ301/Netbean_Save/ShoppingCart/src/java/models/userDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
